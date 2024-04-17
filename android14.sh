@@ -1,6 +1,6 @@
 echo "---------------------------------------------------Cloning Device Tree-----------------------------------------------------"
 
-git clone https://github.com/Shivamingale3/device_lineage_tundra.git device/motorola/tundra 
+git clone git@github.com:Shivamingale3/android_device_motorola_tundra.git device/motorola/tundra 
 
 echo "---------------------------------------------------Cloning Vendor Tree-----------------------------------------------------"
 
@@ -16,4 +16,4 @@ git clone https://github.com/LineageOS/android_system_qcom.git system/qcom
 
 echo "---------------------------------------------------Cloning hardware--------------------------------------------------------"
 
-git clone https://github.com/LineageOS/android_hardware_motorola.git hardware/motorola
+git clone git@github.com:Shivamingale3/android_hardware_motorola.git hardware/motorola
