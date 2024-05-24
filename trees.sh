@@ -16,4 +16,4 @@ git clone https://github.com/LineageOS/android_system_qcom.git system/qcom
 
 echo "---------------------------------------------------Cloning hardware--------------------------------------------------------"
 
-git clone git@github.com:Shivamingale3/android_hardware_motorola.git hardware/motorola
+git clone https://github.com/LineageOS/android_hardware_motorola.git hardware/motorola
