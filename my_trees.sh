@@ -6,7 +6,7 @@ git clone git@gitlab.com:shivamingale3/vendor-motorola-tundra.git vendor/motorol
 
 echo "---------------------------------------------------Cloning Kernel Tree-----------------------------------------------------"
 
-git clone git@github.com:Shivamingale3/kernel_motorola_tundra.git kernel/motorola/tundra
+git clone git@github.com:Shivamingale3/kernel_motorola_tundra.git -b main kernel/motorola/tundra
 
 echo "---------------------------------------------------Cloning qcom------------------------------------------------------------"
 
