@@ -1,4 +1,7 @@
 #!/bin/bash
+echo "---------------------------------------------------Cloning Device Tree-----------------------------------------------------"
+
+git clone git@github.com:Shivamingale3/device_motorola_tundra.git device/motorola/tundra
 
 echo "---------------------------------------------------Cloning Vendor Tree-----------------------------------------------------"
 
