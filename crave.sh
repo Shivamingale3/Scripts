@@ -18,7 +18,7 @@ git clone https://github.com/LineageOS/android_hardware_motorola.git hardware/mo
 
 . build/envsetup.sh
 
-lunch rising_tundra-user
+lunch rising_tundra-ap2a-user
 
 m updatepackage
 
