@@ -16,7 +16,9 @@ echo "==========================================================================
 #read -p "Target : " target
 
 
-hostnamectl
+sudo apt install neofetch -y > /dev/null
+
+neofetch
 
 echo "        By : Shivam Ingale"
 
